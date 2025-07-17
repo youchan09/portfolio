@@ -1,0 +1,15 @@
+.skillList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 12px;
+  padding: 0;
+  list-style: none;
+}
+.skillList li {
+  background: #e0e7ff;
+  color: #3730a3;
+  padding: 6px 16px;
+  border-radius: 16px;
+  font-size: 1rem;
+} 

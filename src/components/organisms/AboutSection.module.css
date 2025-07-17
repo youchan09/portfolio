@@ -1,0 +1,25 @@
+.aboutSection {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.aboutProfile {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #00896b;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+  display: block;
+}
+
+.aboutSection h2 {
+  margin-bottom: 8px;
+  color: #111;
+}
+
+.aboutSection p {
+  color: #555;
+} 

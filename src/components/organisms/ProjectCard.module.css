@@ -1,0 +1,28 @@
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 24px 20px;
+  width: 320px;
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #111;
+}
+.card h3 {
+  margin-bottom: 10px;
+  color: #111;
+}
+.card p {
+  color: #222;
+}
+.card a {
+  color: #00896b;
+  text-decoration: none;
+  margin-top: 8px;
+  font-weight: 500;
+}
+.card a:hover {
+  text-decoration: underline;
+} 
